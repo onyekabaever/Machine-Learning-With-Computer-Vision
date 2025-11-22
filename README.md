@@ -1,9 +1,3 @@
-# Project README
-
-This README summarizes the two notebooks in this project.
-
-# Summary of Building AI Model1.ipynb
-
 # **MACHINE LEARNING WITH COMPUTER VISION ASSESSMENT**
 
 Create a handwriting recognition system which is capable of distinguishing specific handwriting numbers (0-9) from a group of given images and videos captured by scanned handwriting from a given test dataset
